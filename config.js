@@ -6,8 +6,9 @@ global.owner = [
   ['62888049472823'],
   ['6288804947282', 'Owner Bot', true]
   ['62888049472823'], 'Whatsapp Bot', true]
-  // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+  ]
+  // number, dia creator/owner?, dia developer?
+  // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
